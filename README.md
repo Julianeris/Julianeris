@@ -1,5 +1,5 @@
 ### Olá, eu sou a Ju! 
 
-- 🔭 Hoje trabalho com CX e estou transicionando para Data 
-- 🌱 Estou estudando modelagem de dados
+- 🔭 Analista de Dados Junior
+- 🌱 Estou estudando modulo avançado de SQL, Python, Estatistica e DAX
 - 😄 Pronome: ela/dela

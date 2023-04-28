@@ -1,8 +1,9 @@
-### Olá, eu sou a Ju! 
+### Hi, I'm Ju!
+ 
 
-- 🔭 Analista de Dados Junior
-- 🌱 Estou estudando Python, Estatística, DAX e o modulo avançado de SQL
-- 😄 Pronome: ela/dela
+- 🔭 Junior Data Analyst
+- 🌱 I'm studying Python, Statistics, DAX and the advanced SQL module
+- 😄 Pronouns: She/Her
 - 🎓 Graduated in Public Relations at [FIAM FAAM](https://www.linkedin.com/school/fiamfaam/)
 
 ##

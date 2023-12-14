@@ -1,8 +1,8 @@
 ### Hi, I'm Ju!
  
 
-- 🔭 Junior Data Analyst
-- 🌱 I'm studying Python, Statistics, DAX and the advanced SQL module
+- 🔭 Junior Software Engineer
+- 🌱 I'm studying Python and Javascript 
 - 😄 Pronouns: She/Her
 - 🎓 Graduated in Public Relations at [FIAM FAAM](https://www.linkedin.com/school/fiamfaam/)
 

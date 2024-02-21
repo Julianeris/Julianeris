@@ -1,6 +1,7 @@
 ### Hi, I'm Ju!
  
 - 🔭 (Transitioning to) Junior Software Engineer
+- 💡 Back-end stan
 - 🌱 I'm studying Javascript and TypeScript 
 - 😄 Pronouns: She/Her
 - 🎓 Graduated in Public Relations at [FIAM FAAM](https://www.linkedin.com/school/fiamfaam/)

@@ -1,6 +1,6 @@
 ### Hi, I'm Ju!
  
-- 🔭 (Transitioning to) Junior Software Engineer
+- 🔭 Junior Software Engineer
 - 💡 Back-end stan
 - 🌱 I'm studying TypeScript 
 - 😄 Pronouns: She/Her

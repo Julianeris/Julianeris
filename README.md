@@ -2,7 +2,7 @@
  
 - 🔭 Junior Software Engineer
 - 💡 Back-end stan
-- 🌱 I'm studying TypeScript 
+- 🌱 I'm studying Go 
 - 😄 Pronouns: She/Her
 - 🎓 Graduated in Public Relations at [FIAM FAAM](https://www.linkedin.com/school/fiamfaam/)
 - 🎓 I'm graduating in Analysis and Systems Development at [Estácio](https://www.linkedin.com/school/estacio/)
